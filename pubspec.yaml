@@ -1,0 +1,370 @@
+name: servicehub
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.7.0
+  scrollable_positioned_list: ^0.3.5
+  image_picker: ^1.0.7
+  intl: ^0.19.0
+  flutter_cupertino_datetime_picker : ^3.0.0
+  geolocator: ^10.0.1
+  geocoding: ^2.1.0
+  dialogflow_flutter: ^1.0.0
+  http: ^0.13.6
+  #dialog_flowtter: ^0.3.3
+  process_run: ^0.13.0+1
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+
+  assets:
+#homescreen
+    - assets/1.jpg
+    - assets/h1.jpg
+    - assets/h2.jpg
+    - assets/h3.jpg
+    - assets/h4.jpg
+    - assets/h5.jpg
+    - assets/h6.jpg
+    - assets/biker.png
+    - assets/bday.png
+    - assets/beef12.png
+    - assets/carpenter12.png
+    - assets/cartt.jpg
+    - assets/chicken12.png
+    - assets/driver.jpg
+    - assets/driver12.png
+    - assets/electrician.jpg
+    - assets/electrician12.png
+    - assets/eve.png
+    - assets/event1.jpg
+    - assets/fac.png
+    - assets/fruits12.png
+    - assets/gardener12.png
+    - assets/haircut.png
+    - assets/logo.jpg
+    - assets/maid.jpeg
+    - assets/maid12.png
+    - assets/makeup.jpeg
+    - assets/makeup.png
+    - assets/mani.png
+    - assets/massage.png
+    - assets/meat12.png
+    - assets/mechanic12.png
+    - assets/nails.png
+    - assets/milk12.png
+    - assets/painter12.png
+    - assets/plumber12.png
+    - assets/threading.png
+    - assets/vegetables12.png
+    - assets/wax.png
+#homeassist
+    - assets/elec.jpg
+    - assets/plum.jpg
+    - assets/handy.jpg
+    - assets/ac.jpg
+
+  #electrician
+    - assets/elect.jpg
+    - assets/electricianscreen.jpg 
+    - assets/machine1.jpg
+    - assets/machine2.jpg
+    - assets/machine3.jpg
+    - assets/oven1.jpg
+    - assets/oven2.jpg
+    - assets/wiring1.jpg
+    - assets/wiring2.jpg
+    - assets/fridge1.jpg
+    - assets/fridge2.jpg
+    - assets/fan1.jpg
+    - assets/fan2.jpg
+    - assets/switch1.jpg
+    - assets/switch2.jpg
+    - assets/light1.jpg
+    - assets/light2.jpg
+    - assets/ups1.jpg
+    - assets/ups2.jpg
+    - assets/ups3.jpg
+ #facial
+    - assets/facialmain.jpg
+    - assets/facial1.jpg
+    - assets/facial2.jpg
+    - assets/facial3.jpg
+    - assets/facial4.jpg
+    - assets/facial5.jpg
+    - assets/facial6.jpg
+    - assets/facc.jpg
+  #manipedi
+    - assets/manipedimain.jpg
+    - assets/mani1.jpg
+    - assets/mani2.jpg
+    - assets/pedi1.jpg
+    - assets/pedi2.jpg
+    - assets/manipedi1.jpg
+    - assets/manipedi2.jpg
+    - assets/manipedi3.jpg
+  #wax
+    - assets/waxmain.jpg
+    - assets/wax1.jpg
+    - assets/wax2.jpg
+    - assets/wax3.jpg
+    - assets/wax4.jpg
+    - assets/wax5.jpg
+    - assets/wax6.jpg
+    - assets/wax7.jpg
+    - assets/wax8.jpg
+    - assets/wax9.jpg
+    - assets/waxx.jpg
+  #fruits
+    - assets/mangoes.jpg
+    - assets/apples.jpg
+    - assets/strawberries.jpg
+    - assets/guava.jpg
+    - assets/dates.jpg
+    - assets/melons.jpg
+    - assets/watermelons.jpg
+    - assets/peaches.jpg
+    - assets/grapefruit.jpg
+    - assets/oranges.jpg
+    - assets/apricot.jpg
+    - assets/pomegranate.jpg
+    - assets/fruits.jpg
+    - assets/grapes.jpg
+    - assets/jamun.jpg
+    - assets/bananas.jpg
+  #hair
+    - assets/hairmain.jpg
+    - assets/hair1.jpg
+    - assets/hair2.jpg
+    - assets/hair3.jpg
+    - assets/hair4.jpg
+    - assets/hair5.jpg
+    - assets/hair6.jpg
+    - assets/hair7.jpg
+    - assets/hair8.jpg
+    - assets/hair9.jpg
+    - assets/hair10.jpg
+    - assets/hair11.jpg
+  #threading
+    - assets/threadmain.jpg
+    - assets/thread1.jpg
+    - assets/thread2.jpg
+    - assets/thread3.jpg
+  #makeup
+    - assets/makeupmain.jpg
+    - assets/makeup1.jpg
+    - assets/makeup2.jpg
+    - assets/makeup3.jpg
+    - assets/makeup4.jpg
+    - assets/make.webp
+  #massage
+    - assets/massagemain.jpg
+    - assets/massage1.jpg
+    - assets/massage2.jpg
+  #nails
+    - assets/nailmain.jpg
+    - assets/nail1.jpg
+    - assets/nail2.jpg
+    - assets/nail3.jpg
+    - assets/nail4.jpg
+    - assets/nail5.jpg
+    - assets/nail6.jpg
+    - assets/nail7.jpg
+    - assets/nail8.jpg
+  #meat#goat
+    - assets/keema.jpg
+    - assets/liver.jpg
+    - assets/ran1.jpg
+    - assets/leg1.jpg
+    - assets/champ1.jpg
+  #meat#lamb
+    - assets/keema.jpg
+    - assets/liver2.jpg
+    - assets/ran2.jpg
+    - assets/leg2.jpg
+    - assets/champ2.jpg
+  #milk
+    - assets/milkmain.jpg
+    - assets/milk.jpg
+    - assets/yogurt.jpg
+  #chicken
+    - assets/chickenmain.jpg
+    - assets/wholechicken.jpg
+    - assets/chest.jpg
+    - assets/legpiece.jpg
+    - assets/wings.jpg
+  #Plumber#bath
+    - assets/plumbermain.jpg
+    - assets/bath1.jpg
+    - assets/bath2.jpg
+    - assets/bath3.jpg
+    - assets/bath4.jpg
+    - assets/bath5.jpg
+    - assets/bath6.jpg
+    - assets/bath7.jpg
+    - assets/bath8.jpg
+    - assets/bath9.jpg
+    - assets/bath10.jpg
+    - assets/bath11.jpg
+    - assets/bath12.jpg
+  #Plumber#kitchen
+    - assets/kitchen1.jpg
+    - assets/kitchen2.jpg
+    - assets/kitchen3.jpg
+  #Plumber#geyser
+    - assets/geyser1.jpg
+    - assets/geyser2.jpg
+   #Plumber#motor
+    - assets/motor1.jpg
+    - assets/motor2.jpg
+   #ACtechnician
+    - assets/acmain.jpg 
+    - assets/ac1.jpg 
+    - assets/ac2.jpg 
+    - assets/ac3.jpg 
+    - assets/ac4.jpg 
+    - assets/ac5.jpg 
+    - assets/ac6.jpg 
+    - assets/ac7.jpg 
+    - assets/ac8.jpg 
+    - assets/ac9.jpg 
+    - assets/ac10.jpg 
+    - assets/ac11.jpg 
+    - assets/ac12.jpg 
+    - assets/ac13.jpg 
+    - assets/ac14.jpg 
+    - assets/ac15.jpg
+    - assets/ac16.jpg
+    #vegetables/fourseason
+    - assets/vegetablemain.jpg 
+    - assets/tomatoes.jpg 
+    - assets/cucumber.jpg 
+    - assets/beetroot.jpg 
+    - assets/lemon.jpg 
+    - assets/onions.jpg 
+    - assets/ginger.jpg 
+    - assets/garlic.jpg 
+    - assets/mint.jpg 
+    - assets/corriander.jpg 
+    - assets/lettuce.jpg 
+    - assets/chillies.jpg 
+    - assets/cabbage.jpg 
+    - assets/shimla.jpg 
+    - assets/eggplant.jpg 
+    - assets/orangecarrot.jpg 
+    - assets/shaljam.jpg 
+    - assets/palak.jpg 
+    - assets/potatoes.jpg
+
+   #vegetables/winter
+    - assets/sarson.jpg 
+    - assets/peas.jpg 
+    - assets/redcarrot.jpg 
+    - assets/raddish.jpg 
+    - assets/fenugreek.jpg 
+  #vegetables/summer
+    - assets/bhindi.jpg 
+    - assets/karella.jpg 
+    - assets/tinda.jpg 
+    - assets/arvi.jpg
+  #beef
+    - assets/cow.jpg 
+    - assets/ribs.jpg 
+    - assets/cow2.jpg
+    - assets/ran.jpg
+    - assets/keema1.jpg
+    - assets/payee.jpg
+  #maid
+    - assets/maidmain.webp
+    - assets/dishwash.webp
+    - assets/cleaning.webp
+    - assets/iron.jpg
+    - assets/washing.jpg
+    - assets/cooking.jpg
+    - assets/nanny.jpg
+  #worker
+    - assets/workerwelcome.png
+    - assets/worker2.jpeg
+  #json
+    - assets/json/dialog_flow_auth.json  
+
+    
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,2 @@
+C:/Users/babar/Desktop/fyp/servicehub/android/app/.cxx/Debug/r6e6j445/x86/CMakeFiles/edit_cache.dir
+C:/Users/babar/Desktop/fyp/servicehub/android/app/.cxx/Debug/r6e6j445/x86/CMakeFiles/rebuild_cache.dir

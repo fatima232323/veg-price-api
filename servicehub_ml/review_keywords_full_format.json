@@ -1,0 +1,1097 @@
+[
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "timely"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "punctual"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "arrived on time"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "safe"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "professional"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "clean work"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "used proper tools"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "expert"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "knowledgeable"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "reliable"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "friendly"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "polite"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "humble"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "quick service"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "explained well"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "solved issue"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "no damage"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "wore safety gear"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "neat job"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "positive",
+        "Keyword": "cooperative"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "late"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "careless"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "no tools"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "unprofessional"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "rude"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "left a mess"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "incomplete work"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "overcharged"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "didn\u2019t fix"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "slow"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "argument"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "unskilled"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "dirty work"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "noisy"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "damage"
+    },
+    {
+        "Category": "Home Assist",
+        "Sentiment": "negative",
+        "Keyword": "disrespectful"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "respectful"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "polite"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "soft hands"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "best experience"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "calm nature"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "professional"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "clean tools"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "sanitized"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "good behavior"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "relaxing"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "on time"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "hygiene maintained"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "neat and clean"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "friendly"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "smooth work"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "no pain"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "gentle"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "skilled"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "caring"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "organized"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "positive",
+        "Keyword": "attention to detail"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "rough hands"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "unhygienic"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "late"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "rude"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "painful"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "no skills"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "unclean tools"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "careless"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "inappropriate"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "uncomfortable"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "not trained"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "messed up"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "harsh behavior"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "didn't listen"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "dirty clothes"
+    },
+    {
+        "Category": "Personal Care",
+        "Sentiment": "negative",
+        "Keyword": "very slow"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "fresh vegetables"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "fresh fruits"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "properly packed"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "good packaging"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "no blood"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "neatly cut meat"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "clean chicken"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "fresh smell"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "fast delivery"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "on time"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "organic"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "good rate"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "value for money"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "no damage"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "labeled packs"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "good quantity"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "clean bags"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "crisp vegetables"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "sorted properly"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "meat sealed"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "positive",
+        "Keyword": "healthy looking"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "rotten"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "spoiled"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "smelly"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "blood dripping"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "delay"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "poor packaging"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "mixed items"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "dirty bags"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "broken eggs"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "bad quality"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "overripe"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "stale smell"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "not fresh"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "wrong items"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "missing items"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "damaged goods"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "insects"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "watery meat"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "no seal"
+    },
+    {
+        "Category": "Fresh Cart",
+        "Sentiment": "negative",
+        "Keyword": "expired"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "beautifully managed"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "punctual"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "aesthetic"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "eye-catching"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "on-theme"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "elegant setup"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "creative team"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "lights were perfect"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "great coordination"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "professional attitude"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "quick setup"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "polite workers"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "amazing backdrop"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "stress-free"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "timely decor"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "floral arrangement"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "classy look"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "vibrant"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "full satisfaction"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "detailed decoration"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "worth it"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "unique setup"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "positive",
+        "Keyword": "smooth event handling"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "late setup"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "poor decor"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "missing items"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "not as shown"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "color mismatch"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "not elegant"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "dull theme"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "no attention to detail"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "bad lighting"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "rude team"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "unorganized"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "messy"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "chairs broken"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "didn\u2019t listen"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "balloons not blown"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "rushed"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "flowers wilted"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "improper fitting"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "shabby look"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "noisy setup"
+    },
+    {
+        "Category": "Event Decor",
+        "Sentiment": "negative",
+        "Keyword": "waste of money"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Extremely professional and courteous staff"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Punctual and reliable service"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Attention to detail in every corner"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Left the house sparkling clean"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Friendly and trustworthy cleaners"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Efficient and thorough cleaning"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Flexible scheduling to suit my needs"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Consistently high-quality service"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Respectful of my home and belongings"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "positive",
+        "Keyword": "Went above and beyond expectations"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Missed several spots during cleaning"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Arrived late without notice"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Unprofessional behavior observed"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Damaged household items"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Did not follow specific instructions"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Inconsistent cleaning quality"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Overcharged for the services provided"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Poor communication with the staff"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Left the job unfinished"
+    },
+    {
+        "Category": "Maid",
+        "Sentiment": "negative",
+        "Keyword": "Used harsh chemicals without consent"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Safe and smooth driving experience"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Always on time and dependable"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Courteous and well-mannered driver"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Clean and well-maintained vehicle"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Knowledgeable about the best routes"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Flexible with scheduling changes"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Professional appearance and demeanor"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Assisted with luggage and doors"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Good communication skills"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "positive",
+        "Keyword": "Made the journey comfortable and pleasant"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Reckless driving behavior"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Habitually late pickups"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Rude and unprofessional attitude"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Vehicle was dirty and smelled bad"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Took longer routes unnecessarily"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Unresponsive to calls or messages"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Overcharged beyond agreed fare"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Did not assist with luggage"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Played loud music without consent"
+    },
+    {
+        "Category": "Driver",
+        "Sentiment": "negative",
+        "Keyword": "Ignored traffic rules and signals"
+    },
+    {
+        "Keyword": "excellent",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "great",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "amazing",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "terrible",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "poor",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "bad",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "wonderful",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "awful",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "fantastic",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "horrible",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "professional",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "unprofessional",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "satisfied",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "dissatisfied",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "helpful",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "unhelpful",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "prompt",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "delayed",
+        "Sentiment": "negative"
+    },
+    {
+        "Keyword": "efficient",
+        "Sentiment": "positive"
+    },
+    {
+        "Keyword": "inefficient",
+        "Sentiment": "negative"
+    },
+    {
+        "Category": "General",
+        "Sentiment": "positive",
+        "Keyword": "very nice"
+    },
+    {
+        "Category": "General",
+        "Sentiment": "positive",
+        "Keyword": "excellent"
+    },
+    {
+        "Category": "General",
+        "Sentiment": "positive",
+        "Keyword": "amazing"
+    },
+    {
+        "Category": "General",
+        "Sentiment": "positive",
+        "Keyword": "great"
+    },
+    {
+        "Category": "General",
+        "Sentiment": "positive",
+        "Keyword": "wonderful"
+    }
+]
