@@ -7,14 +7,14 @@ from datetime import datetime
 def scrape_price_table(save_path="latest_prices.json"):
     url = "https://timesofkarachi.pk/commissioner-rate-list/"
     response = requests.get(url, timeout=10)
-    response.raise_for_status()  # Will throw if website is down
+    response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
     table = soup.find("table")
     if not table:
         raise Exception("❌ Table not found on page")
 
-    rows = table.find_all("tr")[1:]  # Skip header
+    rows = table.find_all("tr")[1:]  # skip header
     items = []
     for row in rows:
         cols = row.find_all("td")
@@ -34,4 +34,5 @@ def scrape_price_table(save_path="latest_prices.json"):
 
     with open(save_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print("✅ Scraped and saved latest prices")
+
+    print("✅ Data scraped and saved.")
