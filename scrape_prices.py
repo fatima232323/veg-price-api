@@ -10,11 +10,12 @@ def get_latest_vegetable_url():
     r = requests.get(url)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    # Try to find latest vegetable-related post
     for link in soup.find_all("a", href=True):
         if "vegetable" in link.text.lower():
-            return BASE_URL + link["href"]
+            href = link["href"]
+            return href if href.startswith("http") else BASE_URL + href
     return None
+
 
 def scrape_price_table(save_path="latest_prices.json"):
     veg_url = get_latest_vegetable_url()
