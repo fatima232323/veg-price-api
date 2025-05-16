@@ -1,22 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
-import json
-from datetime import datetime
-
-BASE_URL = "https://timesofkarachi.pk"
-
-def get_latest_vegetable_url():
-    url = BASE_URL + "/commissioner-rate-list/"
-    r = requests.get(url)
-    soup = BeautifulSoup(r.text, "html.parser")
-
-    for link in soup.find_all("a", href=True):
-        if "vegetable" in link.text.lower():
-            href = link["href"]
-            return href if href.startswith("http") else BASE_URL + href
-    return None
-
-
 def scrape_price_table(save_path="latest_prices.json"):
     veg_url = get_latest_vegetable_url()
     if not veg_url:
@@ -25,18 +6,23 @@ def scrape_price_table(save_path="latest_prices.json"):
     r = requests.get(veg_url)
     soup = BeautifulSoup(r.text, "html.parser")
 
-    # This may vary slightly depending on their page layout
-    text_block = soup.get_text(separator="\n")
+    table = soup.find("table")
+    if not table:
+        raise Exception("❌ Could not find a table on the page")
 
-    lines = text_block.splitlines()
+    rows = table.find_all("tr")[1:]  # skip header
+
     items = []
-    for line in lines:
-        parts = line.strip().rsplit(" ", 1)
-        if len(parts) == 2 and parts[1].isdigit():
-            items.append({
-                "name": parts[0].strip(),
-                "price": parts[1].strip()
-            })
+    for row in rows:
+        cols = row.find_all("td")
+        if len(cols) >= 4:
+            item = {
+                "name": cols[0].get_text(strip=True),
+                "bazaar_rate": cols[1].get_text(strip=True),
+                "mandi_rate": cols[2].get_text(strip=True),
+                "auction_rate": cols[3].get_text(strip=True),
+            }
+            items.append(item)
 
     data = {
         "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
