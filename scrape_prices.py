@@ -7,14 +7,21 @@ BASE_URL = "https://timesofkarachi.pk"
 
 def get_latest_vegetable_url():
     url = BASE_URL + "/commissioner-rate-list/"
-    r = requests.get(url)
+    r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(r.text, "html.parser")
 
-    for link in soup.find_all("a", href=True):
-        if "vegetable" in link.text.lower():
-            href = link["href"]
+    all_links = soup.find_all("a", href=True)
+
+    # Filter for links that look like "karachi-vegetable-price-list"
+    for link in all_links:
+        text = link.text.lower()
+        href = link["href"]
+
+        if "karachi vegetable price list" in text or "vegetable price list" in text:
             return href if href.startswith("http") else BASE_URL + href
+
     return None
+
 
 def scrape_price_table(save_path="vegetable_prices.json"):
     veg_url = get_latest_vegetable_url()
