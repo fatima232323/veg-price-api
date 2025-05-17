@@ -16,7 +16,7 @@ def get_latest_vegetable_url():
             return href if href.startswith("http") else BASE_URL + href
     return None
 
-def scrape_price_table(save_path="latest_prices.json"):
+def scrape_price_table(save_path="vegetable_prices.json"):
     veg_url = get_latest_vegetable_url()
     if not veg_url:
         raise Exception("No vegetable price post found.")
