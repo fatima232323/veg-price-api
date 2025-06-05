@@ -1,0 +1,432 @@
+{
+  "last_updated": "2025-06-06 03:47:35",
+  "source": "https://timesofkarachi.pk/commissionerratelist/72184-karachi-fruit-price-list-june-05/",
+  "items": [
+    {
+      "name": "Banana 1st grade per dozen",
+      "bazaar_rate": "141",
+      "mandi_rate": "123",
+      "auction_rate": "116"
+    },
+    {
+      "name": "Banana 2nd grade per dozen",
+      "bazaar_rate": "127",
+      "mandi_rate": "110",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Coconut per piece (Large)",
+      "bazaar_rate": "368",
+      "mandi_rate": "320",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Coconut per Piece (Small)",
+      "bazaar_rate": "311",
+      "mandi_rate": "270",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Sugarcane Bites",
+      "bazaar_rate": "115",
+      "mandi_rate": "100",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Papaya 1st grade",
+      "bazaar_rate": "167",
+      "mandi_rate": "145",
+      "auction_rate": "137"
+    },
+    {
+      "name": "Papaya 2nd grade",
+      "bazaar_rate": "138",
+      "mandi_rate": "120",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Golden Apple 1st grade store",
+      "bazaar_rate": "252",
+      "mandi_rate": "219",
+      "auction_rate": "207"
+    },
+    {
+      "name": "Golden Apple 2nd grade store",
+      "bazaar_rate": "230",
+      "mandi_rate": "200",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Apple per Kg 1st grade store",
+      "bazaar_rate": "208",
+      "mandi_rate": "181",
+      "auction_rate": "171"
+    },
+    {
+      "name": "Apple per Kg 2nd grade store",
+      "bazaar_rate": "184",
+      "mandi_rate": "160",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Apple Gaja",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Golden Apple Iranian",
+      "bazaar_rate": "316",
+      "mandi_rate": "275",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Pear",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Iranian Pomegranate",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Kandhari Pomegranate 1st grade store",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Kandhari Pomegranate 2nd grade store",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Quetta Pomegranate 1st grade store",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Quetta Pomegranate 2nd grade store",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Grapefruit 1st grade per piece",
+      "bazaar_rate": "46",
+      "mandi_rate": "40",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Grapefruit 2nd grade per piece",
+      "bazaar_rate": "40",
+      "mandi_rate": "35",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Melon 1st grade",
+      "bazaar_rate": "105",
+      "mandi_rate": "91",
+      "auction_rate": "86"
+    },
+    {
+      "name": "Melon 2nd grade",
+      "bazaar_rate": "81",
+      "mandi_rate": "70",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Sandrakhani Grapes",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Black Grapes",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Round Grapes",
+      "bazaar_rate": "253",
+      "mandi_rate": "220",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Manqa Grapes",
+      "bazaar_rate": "276",
+      "mandi_rate": "240",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Amlok 1st grade",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Amlok 2nd grade",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Mittha per dozen",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Aloo Bukhara",
+      "bazaar_rate": "345",
+      "mandi_rate": "300",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Guava Kasur",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Guava (Hyderabad)",
+      "bazaar_rate": "184",
+      "mandi_rate": "160",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Guava (Larkana)",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Sapodilla 1st grade",
+      "bazaar_rate": "133",
+      "mandi_rate": "116",
+      "auction_rate": "110"
+    },
+    {
+      "name": "Sapodilla 2nd grade",
+      "bazaar_rate": "115",
+      "mandi_rate": "100",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Sharifa large per piece",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Sharifa small per piece",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Kiwi per box (1250) g",
+      "bazaar_rate": "552",
+      "mandi_rate": "480",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Sweet Lime 1st Grade Per Dozen",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Sweet Lime 2nd Grade Per Dozen",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Watermelon striped",
+      "bazaar_rate": "69",
+      "mandi_rate": "60",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Khajoor Irani suburbs 1st class",
+      "bazaar_rate": "633",
+      "mandi_rate": "550",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Khajoor Irani suburbs 2nd class",
+      "bazaar_rate": "575",
+      "mandi_rate": "500",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Khajoor Zahidi Basra 1st Class",
+      "bazaar_rate": "552",
+      "mandi_rate": "480",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Khajoor Zahidi Basra 2nd Class",
+      "bazaar_rate": "518",
+      "mandi_rate": "450",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Date original 1st grade",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Date original 2nd grade",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Kinnow orange 1st class per dozen",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Kinnow orange 2nd class per dozen",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Fruiter per dozen",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Jujube",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Cantaloupe",
+      "bazaar_rate": "92",
+      "mandi_rate": "80",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Strawberry box (450)g",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Cherry Box (450)g",
+      "bazaar_rate": "253",
+      "mandi_rate": "220",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Japanese plum box (250)g",
+      "bazaar_rate": "265",
+      "mandi_rate": "230",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Golarchi",
+      "bazaar_rate": "105",
+      "mandi_rate": "91",
+      "auction_rate": "86"
+    },
+    {
+      "name": "Watermelon long",
+      "bazaar_rate": "78",
+      "mandi_rate": "68",
+      "auction_rate": "65"
+    },
+    {
+      "name": "Watermelon round",
+      "bazaar_rate": "78",
+      "mandi_rate": "68",
+      "auction_rate": "65"
+    },
+    {
+      "name": "Mango Anwar Ratol",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Mango Dasheri",
+      "bazaar_rate": "–",
+      "mandi_rate": "–",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Peach 1st class",
+      "bazaar_rate": "244",
+      "mandi_rate": "212",
+      "auction_rate": "200"
+    },
+    {
+      "name": "Peach 2nd class",
+      "bazaar_rate": "219",
+      "mandi_rate": "190",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Apricot 1st class",
+      "bazaar_rate": "196",
+      "mandi_rate": "170",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Apricot 2nd class",
+      "bazaar_rate": "173",
+      "mandi_rate": "150",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Falsa",
+      "bazaar_rate": "219",
+      "mandi_rate": "190",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Mango Langra",
+      "bazaar_rate": "196",
+      "mandi_rate": "170",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Mango Saroli",
+      "bazaar_rate": "196",
+      "mandi_rate": "170",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Mango Sindhri",
+      "bazaar_rate": "207",
+      "mandi_rate": "180",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Mango Chonsa W",
+      "bazaar_rate": "",
+      "mandi_rate": "",
+      "auction_rate": ""
+    },
+    {
+      "name": "Mango Chonsa B",
+      "bazaar_rate": "",
+      "mandi_rate": "",
+      "auction_rate": ""
+    }
+  ]
+}

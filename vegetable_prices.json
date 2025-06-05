@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-05-18 02:13:00",
-  "source": "https://timesofkarachi.pk/commissionerratelist/70979-karachi-vegetable-price-list-may-17/",
+  "last_updated": "2025-06-06 03:47:33",
+  "source": "https://timesofkarachi.pk/commissionerratelist/72186-karachi-vegetable-price-list-june-05/",
   "items": [
     {
       "name": "Aloo darja-e-awal",
-      "bazaar_rate": "52",
-      "mandi_rate": "45",
-      "auction_rate": "42"
+      "bazaar_rate": "58",
+      "mandi_rate": "50",
+      "auction_rate": "47"
     },
     {
       "name": "Aloo darja-e-doum",
-      "bazaar_rate": "35",
-      "mandi_rate": "30",
-      "auction_rate": "28"
+      "bazaar_rate": "46",
+      "mandi_rate": "40",
+      "auction_rate": "38"
     },
     {
       "name": "Aloo naya",
@@ -22,21 +22,21 @@
     },
     {
       "name": "Lal aloo naya darja-e-awal",
-      "bazaar_rate": "52",
-      "mandi_rate": "45",
-      "auction_rate": "42"
+      "bazaar_rate": "58",
+      "mandi_rate": "50",
+      "auction_rate": "47"
     },
     {
       "name": "Piyaz badi darja-e-awal",
-      "bazaar_rate": "29",
-      "mandi_rate": "25",
-      "auction_rate": "23"
+      "bazaar_rate": "35",
+      "mandi_rate": "30",
+      "auction_rate": "28"
     },
     {
       "name": "Piyaz choti",
-      "bazaar_rate": "17",
-      "mandi_rate": "15",
-      "auction_rate": "14"
+      "bazaar_rate": "23",
+      "mandi_rate": "20",
+      "auction_rate": "19"
     },
     {
       "name": "Piyaz badi Punjab",
@@ -46,39 +46,39 @@
     },
     {
       "name": "Phool gobi darja-e-awal",
-      "bazaar_rate": "58",
-      "mandi_rate": "50",
-      "auction_rate": "47"
+      "bazaar_rate": "81",
+      "mandi_rate": "70",
+      "auction_rate": "66"
     },
     {
       "name": "Phool gobi darja-e-doum",
-      "bazaar_rate": "35",
-      "mandi_rate": "30",
-      "auction_rate": "28"
-    },
-    {
-      "name": "Bund gobi darja-e-awal",
-      "bazaar_rate": "46",
-      "mandi_rate": "40",
-      "auction_rate": "38"
-    },
-    {
-      "name": "Bund gobi darja-e-doum",
-      "bazaar_rate": "29",
-      "mandi_rate": "25",
-      "auction_rate": "23"
-    },
-    {
-      "name": "Lauki gol",
       "bazaar_rate": "58",
       "mandi_rate": "50",
       "auction_rate": "47"
     },
     {
+      "name": "Bund gobi darja-e-awal",
+      "bazaar_rate": "58",
+      "mandi_rate": "50",
+      "auction_rate": "47"
+    },
+    {
+      "name": "Bund gobi darja-e-doum",
+      "bazaar_rate": "40",
+      "mandi_rate": "35",
+      "auction_rate": "33"
+    },
+    {
+      "name": "Lauki gol",
+      "bazaar_rate": "92",
+      "mandi_rate": "80",
+      "auction_rate": "75"
+    },
+    {
       "name": "Lauki lambi",
-      "bazaar_rate": "46",
-      "mandi_rate": "40",
-      "auction_rate": "38"
+      "bazaar_rate": "92",
+      "mandi_rate": "80",
+      "auction_rate": "75"
     },
     {
       "name": "Turai darja-e-awal",
@@ -88,15 +88,15 @@
     },
     {
       "name": "Turai darja-e-doum",
-      "bazaar_rate": "35",
-      "mandi_rate": "30",
-      "auction_rate": "28"
+      "bazaar_rate": "40",
+      "mandi_rate": "35",
+      "auction_rate": "33"
     },
     {
       "name": "Baingan gol",
-      "bazaar_rate": "29",
-      "mandi_rate": "25",
-      "auction_rate": "23"
+      "bazaar_rate": "35",
+      "mandi_rate": "30",
+      "auction_rate": "28"
     },
     {
       "name": "Baingan lamba",
@@ -106,27 +106,27 @@
     },
     {
       "name": "Bhindi Sultanabad darja-e-awal",
-      "bazaar_rate": "92",
-      "mandi_rate": "80",
-      "auction_rate": "75"
+      "bazaar_rate": "81",
+      "mandi_rate": "70",
+      "auction_rate": "66"
     },
     {
       "name": "Bhindi darja-e-doum",
-      "bazaar_rate": "69",
-      "mandi_rate": "60",
-      "auction_rate": "56"
-    },
-    {
-      "name": "Kerela darja-e-awal",
       "bazaar_rate": "58",
       "mandi_rate": "50",
       "auction_rate": "47"
     },
     {
+      "name": "Kerela darja-e-awal",
+      "bazaar_rate": "46",
+      "mandi_rate": "40",
+      "auction_rate": "38"
+    },
+    {
       "name": "Kerela darja-e-doum",
-      "bazaar_rate": "40",
-      "mandi_rate": "35",
-      "auction_rate": "33"
+      "bazaar_rate": "35",
+      "mandi_rate": "30",
+      "auction_rate": "28"
     },
     {
       "name": "Matar Malir",
@@ -142,9 +142,9 @@
     },
     {
       "name": "Matar Classic",
-      "bazaar_rate": "173",
-      "mandi_rate": "150",
-      "auction_rate": "141"
+      "bazaar_rate": "230",
+      "mandi_rate": "200",
+      "auction_rate": "188"
     },
     {
       "name": "Matar darja-e-awal",
@@ -160,15 +160,15 @@
     },
     {
       "name": "Tamatar darja-e-awal",
-      "bazaar_rate": "35",
-      "mandi_rate": "30",
-      "auction_rate": "28"
+      "bazaar_rate": "69",
+      "mandi_rate": "60",
+      "auction_rate": "56"
     },
     {
       "name": "Tamatar darja-e-doum",
-      "bazaar_rate": "23",
-      "mandi_rate": "20",
-      "auction_rate": "19"
+      "bazaar_rate": "46",
+      "mandi_rate": "40",
+      "auction_rate": "38"
     },
     {
       "name": "Kheera darja-e-awal",
@@ -184,21 +184,21 @@
     },
     {
       "name": "Arwi",
-      "bazaar_rate": "230",
-      "mandi_rate": "200",
+      "bazaar_rate": "150",
+      "mandi_rate": "130",
       "auction_rate": "–"
     },
     {
       "name": "Maaru",
-      "bazaar_rate": "35",
-      "mandi_rate": "30",
-      "auction_rate": "28"
+      "bazaar_rate": "46",
+      "mandi_rate": "40",
+      "auction_rate": "38"
     },
     {
       "name": "Tinda desi",
-      "bazaar_rate": "127",
-      "mandi_rate": "110",
-      "auction_rate": "103"
+      "bazaar_rate": "184",
+      "mandi_rate": "160",
+      "auction_rate": "150"
     },
     {
       "name": "Tinda China",
@@ -214,15 +214,15 @@
     },
     {
       "name": "Gawarphuli",
-      "bazaar_rate": "207",
-      "mandi_rate": "180",
-      "auction_rate": "169"
+      "bazaar_rate": "230",
+      "mandi_rate": "200",
+      "auction_rate": "188"
     },
     {
       "name": "Gajar lal",
-      "bazaar_rate": "81",
-      "mandi_rate": "70",
-      "auction_rate": "66"
+      "bazaar_rate": "69",
+      "mandi_rate": "60",
+      "auction_rate": "56"
     },
     {
       "name": "Gajar China",
@@ -238,92 +238,92 @@
     },
     {
       "name": "Lehsun sabut desi darja-e-awal",
-      "bazaar_rate": "230",
-      "mandi_rate": "200",
-      "auction_rate": "–"
-    },
-    {
-      "name": "Lehsun sabut desi darja-e-doum",
-      "bazaar_rate": "173",
-      "mandi_rate": "150",
-      "auction_rate": "–"
-    },
-    {
-      "name": "Lehsun China",
       "bazaar_rate": "253",
       "mandi_rate": "220",
       "auction_rate": "–"
     },
     {
+      "name": "Lehsun sabut desi darja-e-doum",
+      "bazaar_rate": "196",
+      "mandi_rate": "170",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Lehsun China",
+      "bazaar_rate": "230",
+      "mandi_rate": "200",
+      "auction_rate": "–"
+    },
+    {
       "name": "Adrak bagair dhuli darja-e-awal China",
-      "bazaar_rate": "690",
-      "mandi_rate": "600",
-      "auction_rate": "–"
-    },
-    {
-      "name": "Adrak bagair dhuli Bangkok",
-      "bazaar_rate": "690",
-      "mandi_rate": "600",
-      "auction_rate": "–"
-    },
-    {
-      "name": "Adrak bagair dhuli darja-e-doum",
       "bazaar_rate": "518",
       "mandi_rate": "450",
       "auction_rate": "–"
     },
     {
+      "name": "Adrak bagair dhuli Bangkok",
+      "bazaar_rate": "518",
+      "mandi_rate": "450",
+      "auction_rate": "–"
+    },
+    {
+      "name": "Adrak bagair dhuli darja-e-doum",
+      "bazaar_rate": "345",
+      "mandi_rate": "300",
+      "auction_rate": "–"
+    },
+    {
       "name": "Shimla mirch darja-e-awal",
+      "bazaar_rate": "138",
+      "mandi_rate": "120",
+      "auction_rate": "113"
+    },
+    {
+      "name": "Shimla mirch darja-e-doum",
       "bazaar_rate": "115",
       "mandi_rate": "100",
       "auction_rate": "94"
     },
     {
-      "name": "Shimla mirch darja-e-doum",
-      "bazaar_rate": "81",
-      "mandi_rate": "70",
-      "auction_rate": "66"
-    },
-    {
       "name": "Mirch shehzadi",
-      "bazaar_rate": "58",
-      "mandi_rate": "50",
+      "bazaar_rate": "92",
+      "mandi_rate": "80",
       "auction_rate": "–"
     },
     {
       "name": "Mirch soomro",
-      "bazaar_rate": "69",
-      "mandi_rate": "60",
+      "bazaar_rate": "92",
+      "mandi_rate": "80",
       "auction_rate": "–"
     },
     {
       "name": "Mirch",
-      "bazaar_rate": "138",
-      "mandi_rate": "120",
+      "bazaar_rate": "150",
+      "mandi_rate": "130",
       "auction_rate": "–"
     },
     {
       "name": "Mirch German",
-      "bazaar_rate": "173",
-      "mandi_rate": "150",
+      "bazaar_rate": "150",
+      "mandi_rate": "130",
       "auction_rate": "–"
     },
     {
       "name": "Lemu darja-e-awal",
-      "bazaar_rate": "863",
-      "mandi_rate": "750",
+      "bazaar_rate": "575",
+      "mandi_rate": "500",
       "auction_rate": "–"
     },
     {
       "name": "Lemu darja-e-doum",
-      "bazaar_rate": "690",
-      "mandi_rate": "600",
+      "bazaar_rate": "403",
+      "mandi_rate": "350",
       "auction_rate": "–"
     },
     {
       "name": "Jamairi",
-      "bazaar_rate": "518",
-      "mandi_rate": "450",
+      "bazaar_rate": "403",
+      "mandi_rate": "350",
       "auction_rate": "–"
     },
     {
@@ -346,14 +346,14 @@
     },
     {
       "name": "Chukandar bagair patay wala",
-      "bazaar_rate": "58",
-      "mandi_rate": "50",
-      "auction_rate": "47"
+      "bazaar_rate": "69",
+      "mandi_rate": "60",
+      "auction_rate": "56"
     },
     {
       "name": "Hari piyaz",
-      "bazaar_rate": "69",
-      "mandi_rate": "60",
+      "bazaar_rate": "150",
+      "mandi_rate": "130",
       "auction_rate": "–"
     },
     {
@@ -364,8 +364,8 @@
     },
     {
       "name": "Palak",
-      "bazaar_rate": "35",
-      "mandi_rate": "30",
+      "bazaar_rate": "58",
+      "mandi_rate": "50",
       "auction_rate": "–"
     },
     {
@@ -376,33 +376,33 @@
     },
     {
       "name": "Meethi",
-      "bazaar_rate": "81",
-      "mandi_rate": "70",
-      "auction_rate": "66"
+      "bazaar_rate": "230",
+      "mandi_rate": "200",
+      "auction_rate": "188"
     },
     {
       "name": "Kulfa",
-      "bazaar_rate": "23",
-      "mandi_rate": "20",
+      "bazaar_rate": "35",
+      "mandi_rate": "30",
       "auction_rate": "–"
     },
     {
       "name": "Salad pata",
-      "bazaar_rate": "92",
-      "mandi_rate": "80",
+      "bazaar_rate": "184",
+      "mandi_rate": "160",
       "auction_rate": "–"
     },
     {
       "name": "Gadi soya",
-      "bazaar_rate": "9",
-      "mandi_rate": "8",
-      "auction_rate": "7"
-    },
-    {
-      "name": "Gadi dhaniya",
       "bazaar_rate": "8",
       "mandi_rate": "7",
       "auction_rate": "6"
+    },
+    {
+      "name": "Gadi dhaniya",
+      "bazaar_rate": "17",
+      "mandi_rate": "15",
+      "auction_rate": "14"
     },
     {
       "name": "Podina gadi",
@@ -418,32 +418,26 @@
     },
     {
       "name": "Kakri",
-      "bazaar_rate": "58",
-      "mandi_rate": "50",
-      "auction_rate": "47"
+      "bazaar_rate": "46",
+      "mandi_rate": "40",
+      "auction_rate": "38"
     },
     {
       "name": "Beh",
-      "bazaar_rate": "69",
-      "mandi_rate": "60",
-      "auction_rate": "–"
-    },
-    {
-      "name": "Shakarkundi",
       "bazaar_rate": "81",
       "mandi_rate": "70",
       "auction_rate": "–"
     },
     {
-      "name": "Kairi",
-      "bazaar_rate": "",
-      "mandi_rate": "–",
+      "name": "Shakarkundi",
+      "bazaar_rate": "92",
+      "mandi_rate": "80",
       "auction_rate": "–"
     },
     {
       "name": "Papita",
-      "bazaar_rate": "–",
-      "mandi_rate": "–",
+      "bazaar_rate": "58",
+      "mandi_rate": "50",
       "auction_rate": "–"
     },
     {
@@ -460,9 +454,9 @@
     },
     {
       "name": "Unrip Mango",
-      "bazaar_rate": "58",
-      "mandi_rate": "50",
-      "auction_rate": "47"
+      "bazaar_rate": "35",
+      "mandi_rate": "30",
+      "auction_rate": "28"
     }
   ]
 }
